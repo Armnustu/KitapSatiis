@@ -1,1 +1,1 @@
-Asp.net Core ile Kitap satış sitesi hazızrlandı
+Asp.net Core ile Kitap satış sitesi hazırlandı
